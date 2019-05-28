@@ -1,0 +1,19 @@
+{
+  "name": "fsassignment",
+  "version": "1.0.0",
+  "description": "FS Exercises",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsantek/fsAssignment.git"
+  },
+  "author": "Tom Santek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsantek/fsAssignment/issues"
+  },
+  "homepage": "https://github.com/tsantek/fsAssignment#readme"
+}
